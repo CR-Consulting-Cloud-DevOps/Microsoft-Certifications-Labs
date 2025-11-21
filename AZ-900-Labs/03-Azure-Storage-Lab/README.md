@@ -1,4 +1,4 @@
-# 🗄️ My AZ-900 Portfolio Project: Azure Storage Account & Redundancy
+# My AZ-900 Portfolio Project: Azure Storage Account & Redundancy
 
 ## Project Overview & Objective
 

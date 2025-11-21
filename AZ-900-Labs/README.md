@@ -1,10 +1,10 @@
-# 🚀 AZ-900 IaC Portfolio / Azure Cloud Fundamentals
+# AZ-900 IaC Portfolio / Azure Cloud Fundamentals
 
 This repository contains a series of Infrastructure as Code (IaC) Labs using the **Azure CLI** to demonstrate the fundamental concepts of Microsoft Azure and validate understanding of key services (VM, Network, Storage).
 
 Each lab is structured using a consistent pattern: a deployment script, a destruction script, and a detailed analytical document (`README.md`).
 
-## 🛠️ Global Lab Table of Contents
+## Global Lab Table of Contents
 
 | Folder | Azure Service | Key AZ-900 Competencies Demonstrated |
 | :--- | :--- | :--- |
@@ -14,7 +14,7 @@ Each lab is structured using a consistent pattern: a deployment script, a destru
 
 ---
 
-## 🏃 How to Execute the Labs
+## How to Execute the Labs
 
 1.  **Prerequisite:** Ensure the Azure CLI is installed and you are logged in (`az login`).
 2.  **Execution:** Navigate into the desired lab folder (e.g., `cd 01-Azure-VM-Nginx-Lab`).
